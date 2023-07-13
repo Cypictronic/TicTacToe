@@ -18,7 +18,8 @@ This project is a classic implementation of the Tic Tac Toe game that can be pla
 
 ## Screenshots
 
-![Screenshot](images/screenshots.png)
+![image](https://github.com/Cypictronic/TicTacToe/assets/31568449/98c282c5-fa90-400b-9ed9-71354a0b2553)
+
 
 ## Installation and Usage
 
